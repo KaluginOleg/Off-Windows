@@ -1,0 +1,15 @@
+C:\Users\Sanya\source\repos\Off Windows\bin\Debug\Off Windows.exe.config
+C:\Users\Sanya\source\repos\Off Windows\bin\Debug\Off Windows.exe.manifest
+C:\Users\Sanya\source\repos\Off Windows\bin\Debug\Off Windows.application
+C:\Users\Sanya\source\repos\Off Windows\bin\Debug\Off Windows.exe
+C:\Users\Sanya\source\repos\Off Windows\bin\Debug\Off Windows.pdb
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.csproj.AssemblyReference.cache
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off_Windows.Form1.resources
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off_Windows.Properties.Resources.resources
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.csproj.GenerateResource.cache
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.exe.manifest
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.application
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.exe
+C:\Users\Sanya\source\repos\Off Windows\obj\Debug\Off Windows.pdb
